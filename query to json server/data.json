@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "arun",
+      "age": 24,
+      "email": "coolcool@gamil.com"
+    },
+    {
+      "id": 2,
+      "name": "ashok",
+      "age": 24,
+      "email": "coolcool@gamil.com"
+    },
+    {
+      "id": 3,
+      "name": "rasak",
+      "age": 24,
+      "email": "coolcool@gamil.com"
+    },
+    {
+      "id": 4,
+      "name": "riswan",
+      "age": 24,
+      "email": "coolcool@gamil.com"
+    },
+    {
+      "name": "raku",
+      "email": "coo@22.com",
+      "id": "7",
+      "age": 10
+    }
+  ]
+}
